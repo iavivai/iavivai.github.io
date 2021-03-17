@@ -57,7 +57,7 @@ else
   puts '新着情報はありません'
 end
 ```
-[discord_bot/alert_pokopea at master · iavivai/discord_bot · GitHub](https://github.com/iavivai/discord_bot/blob/master/bin/alert_pokopea)
+[discord_bot/alert_pokopea at master · utakah/discord_bot · GitHub](https://github.com/utakaha/discord_bot/blob/master/bin/alert_pokopea)
 
 流したいフィードURLをループして、新着情報があればその情報をWebhook URLで指定したチャンネルに流すというコードを書いた。
 このスクリプトを毎朝10時に実行するようにスケジューラを設定している。
