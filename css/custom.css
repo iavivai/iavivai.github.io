@@ -133,6 +133,7 @@ a.button {
 
 .highlight {
   padding: 1px;
+  overflow-x: auto;
 }
 
 @media (max-width: 768px) {
